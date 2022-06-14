@@ -14,6 +14,3 @@
 ![10](https://github.com/RezaAmimi/Tableau-U.S.-Airlines-Data-Analysis/blob/main/Figures/10.png)
 ![11](https://github.com/RezaAmimi/Tableau-U.S.-Airlines-Data-Analysis/blob/main/Figures/11.png)
 ![14](https://github.com/RezaAmimi/Tableau-U.S.-Airlines-Data-Analysis/blob/main/Figures/14.png)
-
-
-
